@@ -6,6 +6,7 @@ When collecting your data sample,
 -- Move your hand with the sign towards the camera and away from the camera.
 -- The program is going to take 100 pictures for each alphabets so make sure to move your hand around a bit to get different angles.
 -- Once your start, if you make a mistake you will have to delete all your progress and restart the whole process so please be careful.
+-- All the pictures for each alphabet will be placed in separate folders inside this data folder.
 
 I have provided an example of myself making the sign for the alphabet 'A' to illustrate how you should move your hand towards and away from the camera
 
